@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 node_modules/
 .next/
 build/
+=======
+node_modules/
+.next/
+build/
+>>>>>>> c7df8bed00ae926e7438f15d460e418d4d6d7b56
 dist/
